@@ -26,8 +26,8 @@ Output is of the form:
 ```json
 {
 	"url": "",
-	"text": ""
-    "datetime": 0,
+	"text": "",
+        "datetime": 0,
 	"message_id": "",
 	"title": ""
 }
