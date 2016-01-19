@@ -16,8 +16,8 @@ Now that you have everything setup. You can run PyES.py:
 python PyES.py <directory_to_store_files> <gmail_account_email_address> <gmail_query>
 
 - directory_to_store_files: Where to store the json files about each article (eg. "C:\stuff")
-- gmail_account_email_address: The account to use; account must have API enabled (eg. apulverizer@gmail.com)
-- gmail_query: The query to use to find specific emails. (eg "labels:Fire is:unread)
+- gmail_account_email_address: The account to use; account must have API enabled (eg. "apulverizer@gmail.com")
+- gmail_query: The query to use to find specific emails. (eg "labels:Fire is:unread")
 
 ```
 
